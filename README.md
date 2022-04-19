@@ -1,7 +1,7 @@
 # agile-jira
 
 
-Jirs has 3 Products
+# Jirs has 3 Products
 ```
 jira Software - Plan, Track and Release, 
      who uses it - Software Developers, project managers, SCRUM Masters
