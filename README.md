@@ -5,9 +5,9 @@
 jira Software - Plan, Track and Release,
      who uses it - 
      ```
-     *Software Developers, 
-     *project managers, 
-     *SCRUM Masters
+     * Software Developers, 
+     * project managers, 
+     * SCRUM Masters
 ```
      
 
