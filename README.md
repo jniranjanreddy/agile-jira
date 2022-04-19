@@ -2,9 +2,9 @@
 
 
 ## Jirs has 3 Products
-   Jira Software
-   Jira Service Desk
-   Jira Core
+   * Jira Software
+   * Jira Service Desk
+   * Jira Core
    
 jira Software - Plan, Track and Release,
      who uses it - 
