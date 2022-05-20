@@ -22,4 +22,7 @@ Jira Core - marketing Compaigns, HR onboardings
      Who users it - Business users.
 
 
+## Story points
+| Fibonacci| 0, 1, 1, 2, 3, 5, 8, 13....|
+|---|---|
  
