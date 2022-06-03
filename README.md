@@ -49,3 +49,9 @@ Scrum - Sprint Based model
 ## What is Scrum
 
 
+## Work Flow
+1. Status - Where
+2. transitions - What
+3. Assignees - Who
+4. Resolutions - Why
+5. 
