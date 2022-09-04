@@ -1,5 +1,6 @@
 # agile-jira
-
+![alt text](https://github.com/jniranjanreddy/agile-jira/blob/main/agile.jpeg)
+https://github.com/jniranjanreddy/agile-jira/blob/main/agile.jpeg
 
 ## Jirs has 3 Products
    * Jira Software
