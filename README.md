@@ -1,6 +1,37 @@
 # agile-jira
 ![alt text](https://github.com/jniranjanreddy/agile-jira/blob/main/agile.jpeg)
-https://github.com/jniranjanreddy/agile-jira/blob/main/agile.jpeg
+
+After Two days meeting, came out with Agile manifesto with 68 words.
+https://agilemanifesto.org
+```
+4  - Values
+12 - Principles.
+
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+
+Kent Beck
+Mike Beedle
+Arie van Bennekum
+Alistair Cockburn
+Ward Cunningham
+Martin Fowler
+James Grenning
+Jim Highsmith
+Andrew Hunt
+Ron Jeffries
+Jon Kern
+Brian Marick
+Robert C. Martin
+Steve Mellor
+Ken Schwaber
+Jeff Sutherland
+Dave Thomas
+
+```
+
 
 ## Jirs has 3 Products
    * Jira Software
