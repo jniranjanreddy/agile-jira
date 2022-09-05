@@ -1,4 +1,5 @@
 # agile-jira
+## In the Feb-11-2001, Below Professions had Two days confference and came up with Agile Methodlogy.
 ![alt text](https://github.com/jniranjanreddy/agile-jira/blob/main/agile.jpeg)
 
 After Two days meeting, came out with Agile manifesto with 68 words.
@@ -92,6 +93,6 @@ Scrum - Sprint Based model
 ```
 Cannon boll Approach, its also called as waterfall Development approach
 
-In the Feb-11-2001 - 
+
 
 ```
